@@ -15,7 +15,7 @@ public class Hoofdstuk113 extends Applet {
 
 
     public void init() {
-
+setSize(1000,1000);
     getal1 = 0;
     getal2 = 1;
     som = getal1 + getal2;

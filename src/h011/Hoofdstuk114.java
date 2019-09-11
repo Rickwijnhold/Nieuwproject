@@ -24,7 +24,7 @@ public class Hoofdstuk114 extends Applet {
 
 
     public void paint(Graphics g) {
-        for (int i = 1; i < 1000 ; i++) {
+        for (int i = 1; i < 10 ; i++) {
             g.drawString(""+som,x,y);
             x = x + 70;
             y = 50;

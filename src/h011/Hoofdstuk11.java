@@ -16,7 +16,7 @@ public class Hoofdstuk11 extends Applet {
 
         for(teller = 0; teller < 10; teller++) {
             y += 20;
-            g.drawLine(y , 50, y, 300 );
+            g.drawLine(y , 50, y, 300);
         }
     }
 }

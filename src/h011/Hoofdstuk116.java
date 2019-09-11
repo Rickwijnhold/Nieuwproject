@@ -23,7 +23,7 @@ y =100;
 
     public void paint(Graphics g) {
         
-        for (int i = 1; i < 51 ; i++) {
+        for (int i = 1; i < 7; i++) {
             g.drawOval(x, y, widt, height);
 
 

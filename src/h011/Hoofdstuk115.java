@@ -12,7 +12,7 @@ public class Hoofdstuk115 extends Applet {
 
 
     public void init() {
-    x = 10;
+    x = 20;
     y =20;
     }
 
